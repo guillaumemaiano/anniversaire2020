@@ -1,3 +1,6 @@
 [submodule "workfiles/libs"]
 	path = workfiles/libs
 	url = https://github.com/coliff/dark-mode-switch.git
+[submodule "libs/darkmode"]
+	path = libs/darkmode
+	url = https://github.com/coliff/dark-mode-switch.git
