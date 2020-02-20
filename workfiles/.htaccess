@@ -1,0 +1,8 @@
+AuthName "Veuillez vous identifier"
+ AuthUserFile .htpasswd
+ AuthType Basic
+ <Files "en.html">
+  Order Deny,Allow
+  Allow from all
+  Satisfy any
+ </Files>
